@@ -23,13 +23,13 @@ You should see something like:
 ```
 Send deploy request successfully.
 If you want to check SCORE deployed successfully, execute txresult command
-transaction hash: 0x2607d54bcf2a766659947fc5877768954102b3836e64d29ee21a788444f15caa
+transaction hash: <TX HASH>
 ```
 
 Copy the address of the transaction hash and use it to call the `tbears txresult` command like this:
 
 ```
-tbears txresult 0x2607d54bcf2a766659947fc5877768954102b3836e64d29ee21a788444f15caa
+tbears txresult <TX HASH>
 ```
 
 This should output you a successful transaction result similar to this:
