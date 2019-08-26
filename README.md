@@ -1,4 +1,19 @@
 # Game of Thrones on ICON 🤴⚔
+
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/language-Python-brightgreen.svg" alt="Language" />
+  </a>
+  <a href="https://t.me/block42_crypto">
+    <img src="https://img.shields.io/badge/chat-telegram-0088cc.svg" alt="Telegram" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" />
+  </a>
+</div>
+
+<br />
+
 Implementation of a simple game of thrones use case on ICON.
 
 We developed our icon game of thrones use case with the help of the icon-tbears docker container.
