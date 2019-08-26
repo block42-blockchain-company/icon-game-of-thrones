@@ -1,4 +1,4 @@
-# icon-game-of-thrones
+# Game of Thrones on ICON 🤴⚔
 Implementation of a simple game of thrones use case on ICON.
 
 We developed our icon game of thrones use case with the help of the icon-tbears docker container.
