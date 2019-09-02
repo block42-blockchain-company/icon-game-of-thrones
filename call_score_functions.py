@@ -13,7 +13,8 @@ from iconsdk.builder.transaction_builder import (
 from iconsdk.signed_transaction import SignedTransaction
 from iconsdk.builder.call_builder import CallBuilder
 
-scoreAddress = "PUT YOUR_SCORE_ADDRESS HERE"
+scoreAddress = "cx85ac163d787f3d4e7ec81175f91a9ca40b817e96"
+#scoreAddress = "PUT YOUR_SCORE_ADDRESS HERE"
 
 wallet = KeyWallet.load("./keystore_test1", "test1_Account")
 

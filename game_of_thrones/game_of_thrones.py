@@ -16,6 +16,9 @@ class GameOfThrones(IconScoreBase):
     def on_update(self) -> None:
         super().on_update()
 
+    @external(readonly=True)
+    def hello(self, echo: str) -> str:
+        return echo
 
     @external
     def createAlliance(self, alliance: str) -> None:
